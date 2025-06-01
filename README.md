@@ -4,5 +4,4 @@ Model predicts next character in a name depending on the previous character.
 
 This prediction is based on probabilities of next-character when the previous character is known.
 
-These probabilities are learnt from the training dataset.
-
+These probabilities are learnt from the training dataset, which consists of around 32,000 names.
